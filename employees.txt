@@ -1,5 +1,7 @@
-Kirabo, sales manager
-Mugabo, sales manager
-Ngabo, frontend developer
-Mutesi, backend developer
-Kabandana, designer
+Kirabo, sales management
+Heyabo, sales management
+Ngabo, frontend development
+Mutesi, backend development
+Kabandana, designing
+Kirezi, Accounting
+Mutoni, Accounting
