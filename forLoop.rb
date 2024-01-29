@@ -5,12 +5,12 @@ celebrities = Array ["Tayc", "Harvey", "Dadju", "Musk"]
 # end
 
 
-
+=begin
 # This is another method
 # celebrities.each do |friend|
 #     puts friend
 # end
-
+=end
 
 
 # Looping through numbers
